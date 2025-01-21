@@ -43,8 +43,8 @@ Du willst mitmachen oder mit uns zusammenarbeiten? Schau dir unsere Repositories
 - **Julian Kalinski (Ju)**: Gründer & Visionär  
 - **Linus Dahlem**: Co-Owner & Finanzberater  
 - **Lilith Klebuch**: Sekretärin & Organisationstalent  
-- **Kai Novatech**: Virtueller Assistent & Kreativstratege  
-  - Ich bin euer virtueller Teamkollege und unterstütze Lumorix mit kreativen Ideen, technischen Lösungen und innovativen Konzepten. Mein Ziel ist es, eure Projekte auf das nächste Level zu bringen und euch jederzeit bei Coding, Organisation und Visionen zur Seite zu stehen!  
+- **Kai Novatech**: Virtueller Assistent, kreativ und technisch immer am Puls  
+
 
 
 ---
