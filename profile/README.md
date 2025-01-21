@@ -1,50 +1,50 @@
 # Lumorix 🚀
 
-**Welcome to Lumorix!**  
-We are a cutting-edge coding company focused on crafting exceptional digital experiences. From innovative games to dynamic websites and beyond, our mission is to push boundaries and create "Next-Level Creations for a Digital World." 🌐✨
+**Willkommen bei Lumorix!**  
+Wir sind ein innovatives Unternehmen, das sich auf die Entwicklung außergewöhnlicher digitaler Erlebnisse spezialisiert hat. Von kreativen Spielen bis hin zu dynamischen Websites – unsere Mission ist es, Grenzen zu überschreiten und "Next-Level Creations for a Digital World" zu erschaffen. 🌐✨
 
 ---
 
-## 🌟 What We Do
-- **Game Development**: From concept to reality, we build immersive single-player and multiplayer games.
-- **Web Solutions**: Modern, scalable, and user-friendly websites for every need.
-- **Creative Projects**: Expanding into unique product lines and digital innovation.
+## 🌟 Was wir machen
+- **Spieleentwicklung**: Von der Idee bis zur Umsetzung entwickeln wir fesselnde Einzel- und Mehrspieler-Spiele.  
+- **Weblösungen**: Moderne, skalierbare und benutzerfreundliche Websites für jede Anforderung.  
+- **Kreative Projekte**: Wir erweitern unser Portfolio um einzigartige Produktlinien und digitale Innovationen.  
 
 ---
 
-## 💡 Vision
-Our goal is to become a leading name in the tech industry by combining creativity, innovation, and collaboration. We believe in building a community of passionate individuals who strive for excellence.
+## 💡 Unsere Vision
+Unser Ziel ist es, ein führender Name in der Technologiebranche zu werden, indem wir Kreativität, Innovation und Zusammenarbeit vereinen. Wir bauen eine Gemeinschaft von leidenschaftlichen Menschen auf, die Exzellenz anstreben.  
 
 ---
 
-## 🛠️ Technologies We Love
-- **Languages**: JavaScript, Python, C#, HTML/CSS, SQL, and more.
-- **Frameworks & Tools**: Unity, React, Node.js, and cutting-edge web development stacks.
-- **Platforms**: Web, Mobile, and Desktop.
+## 🛠️ Technologien, die wir lieben
+- **Sprachen**: JavaScript, Python, C#, HTML/CSS, SQL und mehr.  
+- **Frameworks & Tools**: Unity, React, Node.js und moderne Webentwicklung-Stacks.  
+- **Plattformen**: Web, Mobile und Desktop.  
 
 ---
 
-## 🌍 Join the Lumorix Community
-Want to contribute or collaborate? Check out our repositories or get in touch with us. Together, we can create something extraordinary! 💻🤝
+## 🌍 Werde Teil der Lumorix-Community
+Du willst mitmachen oder mit uns zusammenarbeiten? Schau dir unsere Repositories an oder melde dich bei uns. Gemeinsam können wir Außergewöhnliches schaffen! 💻🤝  
 
 - **Website**: [lumorix.org](https://lumorix.org)  
-- **Contact**: [Email us](mailto:info@lumorix.org)  
+- **Kontakt**: [Schreib uns eine E-Mail](mailto:info@lumorix.org)  
 
 ---
 
-## 📈 Current Projects
-- **The Adventure of Bob**: A thrilling 2D multiplayer zombie survival game.
-- **Minecraft Shop Database**: A platform for comparing and managing in-game shop items.
-- **Tic-Tac-Toe Multiplayer**: A fully animated, customizable game with online and local modes.
+## 📈 Aktuelle Projekte
+- **The Adventure of Bob**: Ein spannendes 2D-Multiplayer-Zombie-Survival-Spiel.  
+- **Minecraft Shop-Datenbank**: Eine Plattform zum Vergleichen und Verwalten von Ingame-Shop-Items.  
+- **Tic-Tac-Toe Multiplayer**: Ein vollständig animiertes, anpassbares Spiel mit Online- und Lokalemodus.  
 
 ---
 
-## 💪 Team
-- **Julian Kalinski (Ju)**: Founder & Visionary  
-- **Linus Dahlem**: Co-Owner & Financial Advisor  
-- **Lilith Klebuch**: Secretary & Organizational Lead  
+## 💪 Unser Team
+- **Julian Kalinski (Ju)**: Gründer & Visionär  
+- **Linus Dahlem**: Co-Owner & Finanzberater  
+- **Lilith Klebuch**: Sekretärin & Organisationstalent  
 
 ---
 
-## 🌟 Let's Build the Future Together!
-We're always looking for talented individuals and exciting opportunities. Follow us, contribute to our projects, and let's create something amazing!
+## 🌟 Gemeinsam die Zukunft gestalten!
+Wir sind immer auf der Suche nach talentierten Menschen und spannenden Möglichkeiten. Folge uns, arbeite mit uns an Projekten und lass uns zusammen Großartiges erschaffen!  
