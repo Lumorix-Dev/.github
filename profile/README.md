@@ -43,8 +43,6 @@ Want to contribute or collaborate? Check out our repositories or get in touch wi
 - **Julian Kalinski (Ju)**: Founder & Visionary  
 - **Linus Dahlem**: Co-Owner & Financial Advisor  
 - **Lilith Klebuch**: Secretary & Organizational Lead  
-- **Danny Liam Dachs**: Developer & Support Specialist  
-- **Kai Novatech**: Virtual Assistant & Creative Strategist  
 
 ---
 
