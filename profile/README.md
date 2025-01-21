@@ -34,7 +34,7 @@ Du willst mitmachen oder mit uns zusammenarbeiten? Schau dir unsere Repositories
 
 ## 📈 Aktuelle Projekte
 - **The Adventure of Bob**: Ein spannendes 2D-Multiplayer-Zombie-Survival-Spiel.  
-- **Minecraft Shop-Datenbank**: Eine Plattform zum Vergleichen und Verwalten von Ingame-Shop-Items.  
+- **Minecraft Server**: Eine Plattform zum Vergleichen und Verwalten von Ingame-Shop-Items.  
 - **Tic-Tac-Toe Multiplayer**: Ein vollständig animiertes, anpassbares Spiel mit Online- und Lokalemodus.  
 
 ---
