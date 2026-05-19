@@ -27,8 +27,8 @@ Unser Ziel ist es, ein führender Name in der Technologiebranche zu werden, inde
 ## 🌍 Werde Teil der Lumorix-Community
 Du willst mitmachen oder mit uns zusammenarbeiten? Schau dir unsere Repositories an oder melde dich bei uns. Gemeinsam können wir Außergewöhnliches schaffen! 💻🤝  
 
-- **Website**: [lumorix.org](https://lumorix.org)  
-- **Kontakt**: [Schreib uns eine E-Mail](mailto:info@lumorix.org)  
+- **Website**: [lumorix.net](https://lumorix.net)  
+- **Kontakt**: [Schreib uns eine E-Mail](mailto:contact@lumorix.net)  
 
 ---
 
@@ -39,7 +39,6 @@ Du willst mitmachen oder mit uns zusammenarbeiten? Schau dir unsere Repositories
 
 ## 💪 Unser Team
 - **Julian Kalinski (Ju)**: Gründer & Visionär  
-- **Linus Dahlem**: Co-Owner & Finanzberater
 
 
 
